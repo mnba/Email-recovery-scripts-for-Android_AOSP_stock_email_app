@@ -1,0 +1,34 @@
+---
+linux - "grep" offset of ascii string from binary file - Stack Overflow
+https://stackoverflow.com/questions/14141008/grep-offset-of-ascii-string-from-binary-file
+
+
+grep --byte-offset --only-matching --text foobar filename
+
+The --byte-offset option prints the offset of each matching line.
+
+The --only-matching option makes it print offset for each matching instance instead of each matching line.
+
+The --text option makes grep treat the binary file as a text file.
+
+You can shorten it to:
+
+grep -oba foobar filename
+
+--- 
+another link:
+How to recover deleted files in linux filesystem (a bit faster)? - Stack Overflow
+https://stackoverflow.com/questions/9355081/how-to-recover-deleted-files-in-linux-filesystem-a-bit-faster
+
+----
+
+grep find one of two strings - Google  
+
+fgrep usage - Google 
+
+(-)Linux fgrep command help and examples
+https://www.computerhope.com/unix/ufgrep.htm
+
+! Linux fgrep Command Tutorial for Beginners (with Examples)
+https://www.howtoforge.com/linux-fgrep-command/
+

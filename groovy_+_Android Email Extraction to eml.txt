@@ -1,0 +1,28 @@
+groovy script - Google Search
+
+The Apache Groovy programming language - Install Groovy
+http://groovy-lang.org/install.html
+
+Apache Groovy - Wikipedia
+https://en.wikipedia.org/wiki/Apache_Groovy
+
+Learn Groovy in Y Minutes
+https://learnxinyminutes.com/docs/groovy/
+
+The Apache Groovy programming language - Differences with Java
+https://groovy-lang.org/differences.html
+
+---
+
+Android Email Extraction to .eml | Lean Java Engineering
+https://leanjavaengineering.wordpress.com/2014/06/10/android-email-extraction-to-eml/
+
+Android email extraction from backup - see http://leanjavaengineering.wordpress.com/2014/06/10/android-email-extraction-to-eml
+https://gist.github.com/rbramley/65261127dfb857b03bb6
+
+Android email extraction from backup - see http://leanjavaengineering.wordpress.com/2014/06/10/android-email-extraction-to-eml
+https://gist.github.com/alanpoulain/f1133132e0665e675c88
+
+Companion gist for email extraction to list accounts & mailboxes
+https://gist.github.com/rbramley/46c826568422daa90e2f
+
